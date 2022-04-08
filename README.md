@@ -25,7 +25,7 @@
 ![](https://img.shields.io/badge/Oracle-darkgrey)
 ![](https://img.shields.io/badge/Sybase-grey)
 
-### Tools & Languajes 
+### Tools & Languages 
 ![](https://img.shields.io/badge/C#.NET-brightgreen)
 ![](https://img.shields.io/badge/VB.NET-green)
 ![](https://img.shields.io/badge/JavaScript-yellowgreen)
