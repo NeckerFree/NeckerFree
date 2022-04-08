@@ -12,12 +12,12 @@
 
 ### Experience 
 ![](https://img.shields.io/badge/SOAP_Services-red)
-![](https://img.shields.io/badge/Web.Api_Services-critical)
-![](https://img.shields.io/badge/Minimal_Apis-redorange)
-![](https://img.shields.io/badge/Web_Applications-orange)
-![](https://img.shields.io/badge/Windows_Applications-orangeyellow)
+![](https://img.shields.io/badge/Web.Api_Services-orange)
+![](https://img.shields.io/badge/Minimal_Apis-yellow)
+![](https://img.shields.io/badge/Web_Applications-red)
+![](https://img.shields.io/badge/Windows_Applications-orange)
 ![](https://img.shields.io/badge/TDD-yellow)
-![](https://img.shields.io/badge/Reporting_Services-ligthyellow)
+![](https://img.shields.io/badge/Reporting_Services-red)
 
 ### Databases
 ![](https://img.shields.io/badge/SqlServer-darkgray)
