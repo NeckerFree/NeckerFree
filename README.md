@@ -40,8 +40,6 @@
   Twitter: [@ElioCortesM](https://twitter.com/ElioCortesM)
   LinkedIn: [elionelsoncortes](https://www.linkedin.com/in/elionelsoncortes/)
 
-
-- Technologies used: HTML, CSS, Javascript
 <!--
 
 
