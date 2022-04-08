@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 👤 **Elio Cortés, Full-Stack Developer**
-
 - 🌱 I’m currently learning Javascript at the Microverse Program
 
 - 🔭 I’m currently looking for job opportunities
@@ -36,13 +34,15 @@
 ![](https://img.shields.io/badge/Swagger-yellow)
 ![](https://img.shields.io/badge/JWT-ligthyellow)
 
-- 📫 How to reach me: 
-  https://img.shields.io/github/followers/NeckerFree?label=@NeckerFree&style=social
-  https://img.shields.io/twitter/followers/NeckerFree?label=@ElioCortesM&style=social
-  https://img.shields.io/linkedin/followers/NeckerFree?label=elionelsoncortes&style=social
+- 👤 **Elio Cortés**
+ GitHub: [@NeckerFree](https://github.com/NeckerFree)
+ Twitter: [@ElioCortesM](https://twitter.com/ElioCortesM)
+ LinkedIn: [elionelsoncortes](https://www.linkedin.com/in/elionelsoncortes/)
+  
+ 
 
 <!--
-
+https://twitter.com/ElioCortesM
 
 
 
