@@ -7,20 +7,20 @@
 - 🔭 I’m currently looking for job opportunities
 
 ### Frameworks 
-![](https://img.shields.io/badge/.Net Framework-blue)
-![](https://img.shields.io/badge/.Net Core-blueviolet)
+![](https://img.shields.io/badge/.Net_Framework-blue)
+![](https://img.shields.io/badge/.Net_Core-blueviolet)
 
 ### Experience 
-![](https://img.shields.io/badge/SOAP Services-red)
-![](https://img.shields.io/badge/Web.Api Services-critical)
-![](https://img.shields.io/badge/Minimal Apis-redorange)
-![](https://img.shields.io/badge/Web Applications-orange)
-![](https://img.shields.io/badge/Windows Applications-orangeyellow)
+![](https://img.shields.io/badge/SOAP_Services-red)
+![](https://img.shields.io/badge/Web.Api_Services-critical)
+![](https://img.shields.io/badge/Minimal_Apis-redorange)
+![](https://img.shields.io/badge/Web_Applications-orange)
+![](https://img.shields.io/badge/Windows_Applications-orangeyellow)
 ![](https://img.shields.io/badge/TDD-yellow)
-![](https://img.shields.io/badge/Reporting Services-ligthyellow)
+![](https://img.shields.io/badge/Reporting_Services-ligthyellow)
 
 ### Databases
-![](https://img.shields.io/badge/Sql Server-darkgray)
+![](https://img.shields.io/badge/SqlServer-darkgray)
 ![](https://img.shields.io/badge/Oracle-gray)
 ![](https://img.shields.io/badge/Sybase-ligthgray)
 
@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/HTML5-yellow)
 ![](https://img.shields.io/badge/CSS-brightgreen)
 ![](https://img.shields.io/badge/Bootstrap-green)
-![](https://img.shields.io/badge/.NET CORE Identity-yellowgreen) 
+![](https://img.shields.io/badge/.NET_CORE_Identity-yellowgreen) 
 ![](https://img.shields.io/badge/Swagger-yellow)
 ![](https://img.shields.io/badge/JWT-ligthyellow)
 
