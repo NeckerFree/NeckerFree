@@ -22,7 +22,7 @@
 ### Databases
 ![](https://img.shields.io/badge/SqlServer-grey)
 ![](https://img.shields.io/badge/Oracle-darkgrey)
-![](https://img.shields.io/badge/Sybase-lightgrey)
+![](https://img.shields.io/badge/Sybase-grey)
 
 ### Tools & Languajes 
 ![](https://img.shields.io/badge/C#.NET-brightgreen)
