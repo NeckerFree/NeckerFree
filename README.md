@@ -37,9 +37,9 @@
 ![](https://img.shields.io/badge/JWT-ligthyellow)
 
 - 📫 How to reach me: 
-  GitHub: [@NeckerFree](https://github.com/NeckerFree)
-  Twitter: [@ElioCortesM](https://twitter.com/ElioCortesM)
-  LinkedIn: [elionelsoncortes](https://www.linkedin.com/in/elionelsoncortes/)
+  https://img.shields.io/github/followers/NeckerFree?label=@NeckerFree&style=social
+  https://img.shields.io/twitter/followers/NeckerFree?label=@ElioCortesM&style=social
+  https://img.shields.io/linkedin/followers/NeckerFree?label=elionelsoncortes&style=social
 
 <!--
 
