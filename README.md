@@ -10,6 +10,7 @@
 ![](https://img.shields.io/badge/.Net_Framework-blue)
 ![](https://img.shields.io/badge/.Net_Core-blueviolet)
 
+<!--
 ### Experience 
 ![](https://img.shields.io/badge/SOAP_Services-red)
 ![](https://img.shields.io/badge/Web.Api_Services-orange)
@@ -18,7 +19,7 @@
 ![](https://img.shields.io/badge/Windows_Applications-orange)
 ![](https://img.shields.io/badge/TDD-yellow)
 ![](https://img.shields.io/badge/Reporting_Services-red)
-
+-->
 ### Databases
 ![](https://img.shields.io/badge/SqlServer-grey)
 ![](https://img.shields.io/badge/Oracle-darkgrey)
