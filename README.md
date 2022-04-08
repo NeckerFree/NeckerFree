@@ -20,9 +20,9 @@
 ![](https://img.shields.io/badge/Reporting_Services-red)
 
 ### Databases
-![](https://img.shields.io/badge/SqlServer-darkgrey)
-![](https://img.shields.io/badge/Oracle-grey)
-![](https://img.shields.io/badge/Sybase-ligthgrey)
+![](https://img.shields.io/badge/SqlServer-grey)
+![](https://img.shields.io/badge/Oracle-darkgrey)
+![](https://img.shields.io/badge/Sybase-lightgrey)
 
 ### Tools & Languajes 
 ![](https://img.shields.io/badge/C#.NET-brightgreen)
