@@ -27,6 +27,7 @@
 ![](https://img.shields.io/badge/C#.NET-brightgreen)
 ![](https://img.shields.io/badge/VB.NET-green)
 ![](https://img.shields.io/badge/JavaScript-yellowgreen)
+![](https://img.shields.io/badge/React-yellowgreen)
 ![](https://img.shields.io/badge/HTML5-yellow)
 ![](https://img.shields.io/badge/CSS-brightgreen)
 ![](https://img.shields.io/badge/Bootstrap-green)
