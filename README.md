@@ -7,7 +7,7 @@
 ### Frameworks 
 ![](https://img.shields.io/badge/.Net%20Framework-6a040f)
 ![](https://img.shields.io/badge/.Net_Core-9d0208)
-![](https://img.shields.io/badge/Ruby on Rails-d00000)
+![](https://img.shields.io/badge/Ruby%20on%20Rails-d00000)
 
 <!--
 ### Experience 
