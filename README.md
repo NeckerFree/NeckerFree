@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Javascript at the Microverse Program
+- 🌱 I have finished the Microverse Core Program
 
 - 🔭 I’m currently looking for job opportunities
 
