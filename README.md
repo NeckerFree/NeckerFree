@@ -5,8 +5,9 @@
 - 🔭 I’m currently looking for job opportunities
 
 ### Frameworks 
-![](https://img.shields.io/badge/.Net_Framework-blue)
-![](https://img.shields.io/badge/.Net_Core-blueviolet)
+![](https://img.shields.io/badge/.Net%20Framework-6a040f)
+![](https://img.shields.io/badge/.Net_Core-9d0208)
+![](https://img.shields.io/badge/Ruby on Rails-d00000)
 
 <!--
 ### Experience 
@@ -22,6 +23,7 @@
 ![](https://img.shields.io/badge/SqlServer-grey)
 ![](https://img.shields.io/badge/Oracle-darkgrey)
 ![](https://img.shields.io/badge/Sybase-grey)
+![](https://img.shields.io/badge/PostgreSQL-grey)
 
 ### Tools & Languages 
 ![](https://img.shields.io/badge/C#.NET-brightgreen)
