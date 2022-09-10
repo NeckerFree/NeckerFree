@@ -1,5 +1,7 @@
  - 🔭 Currently looking for job opportunities
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NeckerFree&show_icons=true&locale=en&" alt="NeckerFree" /></p>
+
 ### Frameworks                                                             
 ![](https://img.shields.io/badge/.Net%20Core-6a040f)
 ![](https://img.shields.io/badge/.Net%20Framework-9d0208)
