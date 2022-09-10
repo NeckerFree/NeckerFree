@@ -25,7 +25,7 @@
 ![](https://img.shields.io/badge/Rest-ced4da)
 
 ### Databases
-![](https://img.shields.io/badge/SqlServer-023e8a)
+![](https://img.shields.io/badge/SQL%20Server-023e8a)
 ![](https://img.shields.io/badge/Oracle-0077b6)
 ![](https://img.shields.io/badge/Sybase-0096c7)
 ![](https://img.shields.io/badge/PostgreSQL-00b4d8)
