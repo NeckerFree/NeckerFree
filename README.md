@@ -1,41 +1,44 @@
-### Hi there 👋
+ - 🔭 Currently looking for job opportunities
 
-- 🌱 I have finished the Microverse Core Program
-
-- 🔭 I’m currently looking for job opportunities
-
-### Frameworks 
-![](https://img.shields.io/badge/.Net%20Framework-6a040f)
-![](https://img.shields.io/badge/.Net_Core-9d0208)
+### Frameworks                                                             
+![](https://img.shields.io/badge/.Net%20Core-6a040f)
+![](https://img.shields.io/badge/.Net%20Framework-9d0208)
 ![](https://img.shields.io/badge/Ruby%20on%20Rails-d00000)
 
-<!--
-### Experience 
-![](https://img.shields.io/badge/SOAP_Services-red)
-![](https://img.shields.io/badge/Web.Api_Services-orange)
-![](https://img.shields.io/badge/Minimal_Apis-yellow)
-![](https://img.shields.io/badge/Web_Applications-red)
-![](https://img.shields.io/badge/Windows_Applications-orange)
-![](https://img.shields.io/badge/TDD-yellow)
-![](https://img.shields.io/badge/Reporting_Services-red)
--->
-### Databases
-![](https://img.shields.io/badge/SqlServer-grey)
-![](https://img.shields.io/badge/Oracle-darkgrey)
-![](https://img.shields.io/badge/Sybase-grey)
-![](https://img.shields.io/badge/PostgreSQL-grey)
+### Languages 
+![](https://img.shields.io/badge/-C%23.NET-007f5f)
+![](https://img.shields.io/badge/VB.NET-2b9348)
+![](https://img.shields.io/badge/Ruby-55a630)
+![](https://img.shields.io/badge/JavaScript-80b918)
+![](https://img.shields.io/badge/HTML5-aacc00)
+![](https://img.shields.io/badge/CSS-bfd200)
+![](https://img.shields.io/badge/SQL-d4d700)
 
-### Tools & Languages 
-![](https://img.shields.io/badge/C#.NET-brightgreen)
-![](https://img.shields.io/badge/VB.NET-green)
-![](https://img.shields.io/badge/JavaScript-yellowgreen)
-![](https://img.shields.io/badge/HTML5-yellow)
-![](https://img.shields.io/badge/CSS-brightgreen)
-![](https://img.shields.io/badge/Bootstrap-green)
-![](https://img.shields.io/badge/React-yellowgreen)
-![](https://img.shields.io/badge/Swagger-yellow)
-![](https://img.shields.io/badge/JWT-ligthyellow)
-![](https://img.shields.io/badge/.NET_CORE_Identity-yellowgreen) 
+### Libraries & Standars
+![](https://img.shields.io/badge/React-212529)
+![](https://img.shields.io/badge/Bootstrap-343a40)
+![](https://img.shields.io/badge/JWT-495057)
+![](https://img.shields.io/badge/.NET%20CORE%20Identity-6c757d)
+![](https://img.shields.io/badge/Redux-adb5bd)
+![](https://img.shields.io/badge/Rest-ced4da)
+
+### Databases
+![](https://img.shields.io/badge/SqlServer-023e8a)
+![](https://img.shields.io/badge/Oracle-0077b6)
+![](https://img.shields.io/badge/Sybase-0096c7)
+![](https://img.shields.io/badge/PostgreSQL-00b4d8)
+
+### Testing  
+![](https://img.shields.io/badge/TDD-480ca8)
+![](https://img.shields.io/badge/Jest-560bad)
+![](https://img.shields.io/badge/Capybara-7209b7)
+![](https://img.shields.io/badge/RSpec-b5179e)
+
+### Tools & Platforms
+![](https://img.shields.io/badge/GitHub-732400) 
+![](https://img.shields.io/badge/Swagger-a63c06)
+![](https://img.shields.io/badge/Heroku-c36f09) 
+![](https://img.shields.io/badge/Netlify-eeba0b) 
 
 - 👤 **Elio Cortés**
 
