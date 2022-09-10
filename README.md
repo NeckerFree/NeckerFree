@@ -1,8 +1,7 @@
  - 👤 **Elio Cortés**
-
+ LinkedIn: [elionelsoncortes](https://www.linkedin.com/in/elionelsoncortes/)
  GitHub: [@NeckerFree](https://github.com/NeckerFree)
  Twitter: [@ElioCortesM](https://twitter.com/ElioCortesM)
- LinkedIn: [elionelsoncortes](https://www.linkedin.com/in/elionelsoncortes/)
  
  - 🔭 Currently looking for job opportunities
 
