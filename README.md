@@ -1,3 +1,9 @@
+ - 👤 **Elio Cortés**
+
+ GitHub: [@NeckerFree](https://github.com/NeckerFree)
+ Twitter: [@ElioCortesM](https://twitter.com/ElioCortesM)
+ LinkedIn: [elionelsoncortes](https://www.linkedin.com/in/elionelsoncortes/)
+ 
  - 🔭 Currently looking for job opportunities
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NeckerFree&show_icons=true&locale=en&" alt="NeckerFree" /></p>
@@ -41,13 +47,6 @@
 ![](https://img.shields.io/badge/Swagger-a63c06)
 ![](https://img.shields.io/badge/Heroku-c36f09) 
 ![](https://img.shields.io/badge/Netlify-eeba0b) 
-
-- 👤 **Elio Cortés**
-
- GitHub: [@NeckerFree](https://github.com/NeckerFree)
- Twitter: [@ElioCortesM](https://twitter.com/ElioCortesM)
- LinkedIn: [elionelsoncortes](https://www.linkedin.com/in/elionelsoncortes/)
-  
  
 
 <!--
