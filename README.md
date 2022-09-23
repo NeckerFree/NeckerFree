@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/CSS-bfd200)
 ![](https://img.shields.io/badge/SQL-d4d700)
 
-### Libraries & Standars
+### Libraries & Standards
 ![](https://img.shields.io/badge/React-212529)
 ![](https://img.shields.io/badge/Bootstrap-343a40)
 ![](https://img.shields.io/badge/JWT-495057)
