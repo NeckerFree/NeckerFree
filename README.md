@@ -24,10 +24,17 @@
   <tbody>
     <tr>
       <td>
-### Frameworks                                                             
-![](https://img.shields.io/badge/.Net%20Core-6a040f)
-![](https://img.shields.io/badge/.Net%20Framework-9d0208)
-![](https://img.shields.io/badge/Ruby%20on%20Rails-d00000)
+          ### Frameworks
+          ![](https://img.shields.io/badge/.Net%20Core-6a040f)
+          ![](https://img.shields.io/badge/.Net%20Framework-9d0208)
+          ![](https://img.shields.io/badge/Ruby%20on%20Rails-d00000)
+     </td>
+     <td>
+         ### Databases
+         ![](https://img.shields.io/badge/SQL%20Server-023e8a)
+         ![](https://img.shields.io/badge/Oracle-0077b6)
+         ![](https://img.shields.io/badge/Sybase-0096c7)
+         ![](https://img.shields.io/badge/PostgreSQL-00b4d8)
      </td>
       <td>
 ### Languages 
@@ -48,13 +55,7 @@
 ![](https://img.shields.io/badge/Redux-adb5bd)
 ![](https://img.shields.io/badge/Rest-ced4da)
      </td>
-      <td>
-     ### Databases
-![](https://img.shields.io/badge/SQL%20Server-023e8a)
-![](https://img.shields.io/badge/Oracle-0077b6)
-![](https://img.shields.io/badge/Sybase-0096c7)
-![](https://img.shields.io/badge/PostgreSQL-00b4d8)
-     </td>
+      
       <td>
 ### Testing  
 ![](https://img.shields.io/badge/TDD-480ca8)
