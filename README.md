@@ -1,21 +1,14 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=NeckerFree&style=for-the-badge&label=Profile%20views" alt="NeckerFree" /> </p>
-<div align="left">
- - 👤 **Elio Cortés**
  
- <!--LinkedIn: [elionelsoncortes](https://www.linkedin.com/in/elionelsoncortes/)
- GitHub: [@NeckerFree](https://github.com/NeckerFree)
- Twitter: [@ElioCortesM](https://twitter.com/ElioCortesM)-->
- <h4>Let's connect</h4>
+ 👤 **Elio Cortés**
+ - 🔭 Currently looking for job opportunities
+ - 📫 How to reach me: ...
+<div align="left">
 <a  href="https://github.com/NeckerFree" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/ElioCortesM" target="_blank"> <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=plastic&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:elio.cortes3000@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" /><a/>
 <br>
 </div>
-
-
- 
- - 🔭 Currently looking for job opportunities
-
 <div style="display: flex">
 <img width='48%' src='https://github-readme-stats.vercel.app/api?username=NeckerFree&show_icons=true&locale=en&count_private=true'>
 
