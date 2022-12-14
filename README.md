@@ -1,4 +1,4 @@
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=NeckerFree&style=for-the-badge&label=Profile%20views" alt="NeckerFree" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=NeckerFree&style=plastic&label=Profile%20views" alt="NeckerFree" /> </p>
  
  👤 **Elio Cortés**
  - 🔭 Currently looking for job opportunities
