@@ -24,13 +24,13 @@
   <tbody>
     <tr>
         <td>
-### Frameworks
+Frameworks
 ![](https://img.shields.io/badge/.Net%20Core-6a040f)
 ![](https://img.shields.io/badge/.Net%20Framework-9d0208)
 ![](https://img.shields.io/badge/Ruby%20on%20Rails-d00000)
         </td>
         <td>
-### Databases
+Databases
 ![](https://img.shields.io/badge/SQL%20Server-023e8a)
 ![](https://img.shields.io/badge/Oracle-0077b6)
 ![](https://img.shields.io/badge/Sybase-0096c7)
