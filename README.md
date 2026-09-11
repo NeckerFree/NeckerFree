@@ -1,72 +1,59 @@
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=NeckerFree&style=plastic&label=Profile%20views" alt="NeckerFree" /> </p>
- 
- 👤 **Elio Cortés**
- - 🔭 Currently looking for job opportunities
- - 📫 How to reach me: ...
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=NeckerFree&style=flat-square&label=Profile%20views" alt="Profile views" />
+</p>
+
+### Elio Cortés — Backend Developer
+
+Backend Software Engineer with 15+ years building scalable, secure applications in **C#, .NET and ASP.NET Core** — microservices, Clean Architecture, DDD, and cloud on **AWS** and **Azure**.
+
+- 🔭 Open to backend & full-stack roles, remote or hybrid from Bogotá, Colombia
+- 🌱 Currently sharpening Minimal APIs, microservices patterns and cloud IaC (Terraform, Pulumi, Ansible)
+- 💼 Portfolio & projects: **[neckerfree.github.io/portfolio-2026](https://neckerfree.github.io/portfolio-2026/)**
+- 📫 Reach me: **[elio.cortes3000@gmail.com](mailto:elio.cortes3000@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/elionelsoncortes)**
+
 <div align="left">
-<a  href="https://github.com/NeckerFree" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/ElioCortesM" target="_blank"> <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=plastic&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:elio.cortes3000@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" /><a/>
-<br>
+  <a href="https://neckerfree.github.io/portfolio-2026/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-5B45E0?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/elionelsoncortes" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:elio.cortes3000@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/ElioCortesM" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
 </div>
 
-### Frameworks
-![](https://img.shields.io/badge/.Net%20Core-6a040f)
-![](https://img.shields.io/badge/.Net%20Framework-9d0208)
-![](https://img.shields.io/badge/Ruby%20on%20Rails-d00000)
+### Backend & Frameworks
+![](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![](https://img.shields.io/badge/Minimal%20APIs-512BD4?style=flat-square)
+![](https://img.shields.io/badge/EF%20Core-6a040f?style=flat-square)
+![](https://img.shields.io/badge/Ruby%20on%20Rails-D00000?style=flat-square&logo=rubyonrails&logoColor=white)
+
+### Architecture & Design
+![](https://img.shields.io/badge/Clean%20Architecture-3F3A72?style=flat-square)
+![](https://img.shields.io/badge/DDD-3F3A72?style=flat-square)
+![](https://img.shields.io/badge/Microservices-3F3A72?style=flat-square)
+![](https://img.shields.io/badge/Design%20Patterns-3F3A72?style=flat-square)
+
+### Frontend
+![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### Databases
-![](https://img.shields.io/badge/SQL%20Server-023e8a)
-![](https://img.shields.io/badge/Oracle-0077b6)
-![](https://img.shields.io/badge/Sybase-0096c7)
-![](https://img.shields.io/badge/PostgreSQL-00b4d8)
+![](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Languages 
-![](https://img.shields.io/badge/-C%23.NET-007f5f)
-![](https://img.shields.io/badge/VB.NET-2b9348)
-![](https://img.shields.io/badge/Ruby-55a630)
-![](https://img.shields.io/badge/JavaScript-80b918)
-![](https://img.shields.io/badge/HTML5-aacc00)
-![](https://img.shields.io/badge/CSS-bfd200)
-![](https://img.shields.io/badge/SQL-d4d700)
+### Cloud & DevOps
+![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![](https://img.shields.io/badge/Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white)
+![](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### Testing  
-![](https://img.shields.io/badge/TDD-480ca8)
-![](https://img.shields.io/badge/Jest-560bad)
-![](https://img.shields.io/badge/Capybara-7209b7)
-![](https://img.shields.io/badge/RSpec-b5179e)
- 
-### Libraries & Standards
-![](https://img.shields.io/badge/React-212529)
-![](https://img.shields.io/badge/Bootstrap-343a40)
-![](https://img.shields.io/badge/JWT-495057)
-![](https://img.shields.io/badge/.NET%20CORE%20Identity-6c757d)
-![](https://img.shields.io/badge/Redux-adb5bd)
-![](https://img.shields.io/badge/Rest-ced4da)
-
-### Tools & Platforms
-![](https://img.shields.io/badge/GitHub-732400) 
-![](https://img.shields.io/badge/Swagger-a63c06)
-![](https://img.shields.io/badge/Heroku-c36f09) 
-![](https://img.shields.io/badge/Netlify-eeba0b)
-
-<!--
-https://twitter.com/ElioCortesM
-
-
-
-> "Awesome books" is a simple website that displays a list of books and allows you to add and remove books from that list.
-**NeckerFree/NeckerFree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-👤 **Elio Cortés**
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Methods
+![](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![](https://img.shields.io/badge/xUnit-512BD4?style=flat-square)
+![](https://img.shields.io/badge/TDD-000000?style=flat-square)
+![](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
