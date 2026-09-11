@@ -9,11 +9,6 @@
 <a href="mailto:elio.cortes3000@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" /><a/>
 <br>
 </div>
-<div style="display: flex">
-<img width='48%' src='https://github-readme-stats.vercel.app/api?username=NeckerFree&show_icons=true&locale=en&count_private=true'>
-
-<img width='40%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=NeckerFree&langs_count=8&count_private=true&layout=compact' alt="NeckerFree">
-</div>
 
 ### Frameworks
 ![](https://img.shields.io/badge/.Net%20Core-6a040f)
