@@ -57,3 +57,14 @@ Backend Software Engineer with 15+ years building scalable, secure applications 
 ![](https://img.shields.io/badge/xUnit-512BD4?style=flat-square)
 ![](https://img.shields.io/badge/TDD-000000?style=flat-square)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### AI-Assisted Development
+![](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+I work AI-augmented at every level, not just inside the editor:
+
+- **GitHub Copilot** for day-to-day pair programming, refactoring and automated test generation in production codebases
+- **ChatGPT** for design exploration, debugging and documentation
+- **Claude Code** to run entire builds end-to-end through an AI-Driven Development Lifecycle (AIDLC) — this portfolio was built that way, [inception through operation, fully documented](https://github.com/NeckerFree/portfolio-2026/tree/main/docs/aidlc)
